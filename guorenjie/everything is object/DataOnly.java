@@ -1,10 +1,10 @@
-
+//exercis 5
 public class DataOnly {
 	int i;
 	double d;
 	boolean b;
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
+		// TODO ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ÉµÄ·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		DataOnly data = new DataOnly();
 		data.i = 47;
 		data.d = 1.1;
@@ -14,3 +14,4 @@ public class DataOnly {
 		System.out.print(data.b);
 	}
 }
+//ok

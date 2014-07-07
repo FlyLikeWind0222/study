@@ -4,10 +4,11 @@ public class Exercise6 {
 		return s.length() * 2;
 	}
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
+		// TODO ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ÉµÄ·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		int b;
 		Exercise6 A=new Exercise6();
 		b=A.storage("abc");
 		System.out.print(b);
 	}
 }
+//ok
