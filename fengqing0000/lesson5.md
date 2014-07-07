@@ -1,0 +1,38 @@
+ï»¿1.import ÒıÈë°ü£¨C¡¢C++ÊÇinclude£©
+         eg: import java.lang
+
+2.°üÏàµ±ÓÚÎÄ¼ş¼Ğ °üÏÂÃæµÄÀàÏàµ±ÓÚÎÄ¼ş¼ĞÏÂµÄÎÄ¼ş
+
+3.µÚÒ»¶ÎËµÃ÷·½·¨¿ÉÒÔ×öÊ²Ã´ÊÂ¡£
+
+4. int a=B.add(); ×ó±ß·µ»ØintĞÍµÄÖµ£¬ÓÒ±ßÖ´ĞĞ¼Ó·¨²Ù×÷
+
+5.·½·¨ÕªÒªÀïµÄÓÒ±ß¾ÍÊÇ³ÉÔ±·½·¨
+
+6.ÓĞstaticĞŞÊÎµÄ·½·¨¿ÉÒÔÓÃ ÀàÃû.·½·¨À´µ÷ÓÃ¡£ 
+
+7.Ã»ÓĞstaticĞŞÊÎµÄ·½·¨ÓÃ±äÁ¿.·½·¨À´µ÷ÓÃ¡£
+  eg: String abc="123" abc.endsWith(str)
+
+8.60¶È cos(60/180*Math.PI)
+  ·µ»Ø60¶ÈµÄÓàÏÒ Math.cos(60/180*Math.PI)
+
+9.String a = "www.baid.com/sdasdasd"
+  a.indexOf("www.baidu.com") != -1
+
+10.½ØÈ¡Ğ¡ÊıµãºóÃæµÄ String a = "abc.edf"
+   int index = a.indexOf('.');ÕÒµ½Ë÷Òı
+   String sub = a.subString(index)
+
+11.°Ñ×Ö·û´®×ª³É×Ö·û
+  arr.join(",")
+  "1,2,3"
+  join("")
+  join("\n")
+  split(",")
+
+12.¿´ÊÇÊ²Ã´Êı¾İÀàĞÍ ÕÒµ½ÏàÓ¦µÄÀà ÔÙÕÒµ½³ÉÔ±·½·¨
+
+
+
+  
